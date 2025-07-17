@@ -13,5 +13,5 @@ Built With
 
 HTML5 • CSS3 • JavaScript
 
-## 🚀 [Live Demo](https://yourusername.github.io/keerti-calculator)  
-📁 [GitHub Repo](https://github.com/yourusername/keerti-calculator)
+[Live Demo](https://keerthanaweb.github.io/keerti-calculator)  
+[GitHub Repo](https://github.com/keerthanaweb/keerti-calculator)
